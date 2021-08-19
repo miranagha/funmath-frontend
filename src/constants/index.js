@@ -1,0 +1,1 @@
+export const SERVER_LOGIN='http://localhost:5000'

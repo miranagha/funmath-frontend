@@ -1,0 +1,67 @@
+.App {
+ 
+  background-color: blueviolet;
+}
+.logo{
+  width: 256px;
+  height: 71px;
+  margin: auto;
+  margin-left: 20%;
+}
+.form{
+  width: 100%;
+  height: 100%;
+  max-width: 400px;
+  min-width: 330px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+}
+.formcontainer{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-size: contain;
+  background:url(secondbg.jpeg);}
+.formarea{
+  width: 60vw;
+  min-width: 330px;
+  max-width: 410px;
+  margin: auto;
+  margin-left: 60%;
+  
+background-color: antiquewhite;
+
+}
+#h5{
+  font-size: small;
+}
+.home{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  background:url(homebg.jpg);
+  background-size: cover;
+}
+.innerhome{
+  margin: auto;
+  text-align: center;
+}
+.heading{
+  
+  /* font-family: "Lucida Handwriting",Cursive; */
+}
+.innerhomebtn{
+    margin: auto;
+    width: 110px;
+    height: 50px;
+    color: white;
+    /* font-family: "Arial Handwriting",Cursive; */
+  text-align: center;
+  background:url(btnbg.png);
+  background-size: cover;
+  border: hidden;
+}
