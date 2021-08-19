@@ -25,3 +25,4 @@ const register = (state = initialState, action) => {
             return state;
     }
 }
+export default register;
